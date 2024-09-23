@@ -20,3 +20,4 @@
 /home/rashad/Desktop/rider/task/ConsoleApp2/ClassLibrary2/obj/Debug/net8.0/refint/ClassLibrary2.dll
 /home/rashad/Desktop/rider/task/ConsoleApp2/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.pdb
 /home/rashad/Desktop/rider/task/ConsoleApp2/ClassLibrary2/obj/Debug/net8.0/ref/ClassLibrary2.dll
+/home/rashad/Desktop/rider/task/ConsoleApp2/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.sourcelink.json
