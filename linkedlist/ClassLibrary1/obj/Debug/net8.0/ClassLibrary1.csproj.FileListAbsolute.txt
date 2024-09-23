@@ -1,0 +1,12 @@
+/home/rashad/Desktop/rider/task/linkedlist/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.deps.json
+/home/rashad/Desktop/rider/task/linkedlist/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.dll
+/home/rashad/Desktop/rider/task/linkedlist/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.pdb
+/home/rashad/Desktop/rider/task/linkedlist/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/home/rashad/Desktop/rider/task/linkedlist/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfoInputs.cache
+/home/rashad/Desktop/rider/task/linkedlist/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfo.cs
+/home/rashad/Desktop/rider/task/linkedlist/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/home/rashad/Desktop/rider/task/linkedlist/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.sourcelink.json
+/home/rashad/Desktop/rider/task/linkedlist/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.dll
+/home/rashad/Desktop/rider/task/linkedlist/ClassLibrary1/obj/Debug/net8.0/refint/ClassLibrary1.dll
+/home/rashad/Desktop/rider/task/linkedlist/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.pdb
+/home/rashad/Desktop/rider/task/linkedlist/ClassLibrary1/obj/Debug/net8.0/ref/ClassLibrary1.dll
